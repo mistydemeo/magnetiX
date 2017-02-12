@@ -33,8 +33,7 @@
 \*****************************************************************************/
 
 #import <Cocoa/Cocoa.h>
-#import <QTKit/QTMovie.h>
-#import <QTKit/QTDataReference.h>
+#import <AVFoundation/AVFoundation.h>
 
 @class PreferenceController;
 @class MXFSController;

@@ -33,8 +33,7 @@
 \*****************************************************************************/
 
 #import <Cocoa/Cocoa.h>
-#import <QTKit/QTMovie.h>
-#import <QTKit/QTDataReference.h>
+#import <AVFoundation/AVFoundation.h>
 
 @interface GameSelectController : NSObject
 {
@@ -91,7 +90,7 @@
 	NSImage *coverCollectionGuild;
 	NSImage *coverWonderland;
 	
-	BOOL isQtSoundPlaying;
+	BOOL isSoundPlaying;
 }
 - (IBAction)swapGuild:(id)sender;
 - (IBAction)swapCorruption:(id)sender;
@@ -102,13 +101,13 @@
 - (IBAction)locateDirectory:(id)sender;
 - (NSString *)checkForFile:(NSString *)filename;
 - (void)externalStart:(NSString *)filename;
-- (void)playQtSound:(QTMovie *)newSound;
-- (void)stopQtSound;
+- (void)playSound:(NSObject *)newSound;
+- (void)stopSound;
 - (void)playThemeIfNeeded;
 - (void)changeGameSelectionWith:(unichar)character;
 - (id)currentlyVisibleGame;
 
-@property (retain) QTMovie *qtSound;
+@property (retain) NSObject *sound;
 @property (retain) NSString *altInstallPath;
 
 @end

@@ -30,7 +30,6 @@
 		3D11F653074980BC000996A5 /* icon_wonder.icns in Resources */ = {isa = PBXBuildFile; fileRef = 3D11F647074980BC000996A5 /* icon_wonder.icns */; };
 		3D122EB117CCBB1400E6693D /* MXScroller.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D122EB017CCBB1400E6693D /* MXScroller.m */; };
 		3D133B2E187B13D500FCE6F2 /* MXFSBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D133B2D187B13D500FCE6F2 /* MXFSBannerView.m */; };
-		3D15F8B00FD2C65500EC9CCC /* QTKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3D15F8AF0FD2C65500EC9CCC /* QTKit.framework */; };
 		3D1D820D187D9E98003F3CF5 /* new_saved_game@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D1D820C187D9E98003F3CF5 /* new_saved_game@2x.png */; };
 		3D277CF817D8ACC300AE56D9 /* MXTrackSessionSliderCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D277CF717D8ACC300AE56D9 /* MXTrackSessionSliderCell.m */; };
 		3D30900206FAED7D00E62982 /* PreferenceController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D30900006FAED7D00E62982 /* PreferenceController.m */; };
@@ -76,6 +75,7 @@
 		3DEECE0F17CCC51000FB6A01 /* MXHintsScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DEECE0E17CCC51000FB6A01 /* MXHintsScrollView.m */; };
 		3DF80B1117C6ABBD007EBB48 /* MXLimiterView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DF80B1017C6ABBD007EBB48 /* MXLimiterView.m */; };
 		3DFF8CF70715785E00C6F5E4 /* GameSelectController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DFF8CF50715785E00C6F5E4 /* GameSelectController.m */; };
+		507FD7121E50394500D5060B /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 507FD7111E50394500D5060B /* AVFoundation.framework */; };
 		8D11072D0486CEB800E47090 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; settings = {ATTRIBUTES = (); }; };
 		8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
 /* End PBXBuildFile section */
@@ -185,6 +185,7 @@
 		3DF80B1017C6ABBD007EBB48 /* MXLimiterView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MXLimiterView.m; sourceTree = "<group>"; };
 		3DFF8CF40715785E00C6F5E4 /* GameSelectController.h */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.h; path = GameSelectController.h; sourceTree = "<group>"; };
 		3DFF8CF50715785E00C6F5E4 /* GameSelectController.m */ = {isa = PBXFileReference; fileEncoding = 30; lastKnownFileType = sourcecode.c.objc; path = GameSelectController.m; sourceTree = "<group>"; };
+		507FD7111E50394500D5060B /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		8D1107320486CEB800E47090 /* magnetiX.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = magnetiX.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -194,9 +195,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				507FD7121E50394500D5060B /* AVFoundation.framework in Frameworks */,
 				3D8071B31867384300543602 /* QuartzCore.framework in Frameworks */,
 				8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */,
-				3D15F8B00FD2C65500EC9CCC /* QTKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -321,6 +322,7 @@
 		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				507FD7111E50394500D5060B /* AVFoundation.framework */,
 				1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */,
 				1058C7A2FEA54F0111CA2CBB /* Other Frameworks */,
 			);

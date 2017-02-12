@@ -1085,7 +1085,7 @@ BOOL isUpdateMissing = NO;
 	} else if ([keyPath isEqualToString:@"selection.name"]) {
 		[preferenceController endTemplateNaming:self];
 	} else if ([keyPath isEqualToString:@"wonderlandMusic"]) {
-		if (![[NSUserDefaults standardUserDefaults] integerForKey:@"wonderlandMusic"] && selectedGame) { [gameSelectController stopQtSound]; }
+		if (![[NSUserDefaults standardUserDefaults] integerForKey:@"wonderlandMusic"] && selectedGame) { [gameSelectController stopSound]; }
 	} else if ([keyPath isEqualToString:@"imageOptimizations"]) {
 		[self updateImage];
 	} else if ([keyPath isEqualToString:@"nonContiguousLayout"]) {
@@ -1692,7 +1692,7 @@ void noUserProgressAfterLoadNSave(void)
 		}
 		
 		if (isMagneticWindows) {
-            [gameSelectController stopQtSound];
+            [gameSelectController stopSound];
 			[orderBuffer insertObject:@"Graphics on" atIndex:0];
 			[self transferOrder];
 		}
@@ -1927,7 +1927,7 @@ OSStatus changeStatus(CFStringRef message)
 		return 1; // load NOT successful
 	} else {
 		[self mainNoUserProgressAfterLoadNSave];
-        [gameSelectController stopQtSound];
+        [gameSelectController stopSound];
 		return 0; // load succcessful
 	}
 }
@@ -4351,7 +4351,7 @@ type8 ms_showhints(struct ms_hint * hints)
         animTimer = NULL;
     }
 	
-	[gameSelectController stopQtSound];
+	[gameSelectController stopSound];
 	[self mainNoUserProgress];
 	
 	[self disableMore];
@@ -4462,14 +4462,13 @@ int mainemu(char *magPath, char *gfxPath, char *hntPath, char *sndPath, char *ne
 {
 	if (![[NSUserDefaults standardUserDefaults] integerForKey:@"wonderlandMusic"] || [data isEqualToData:self.currentlyPlayingMidiData]) { return; }
 	
-	QTDataReference *dataRef = [QTDataReference dataReferenceWithReferenceToData:data name:@".midi" MIMEType:@"audio/midi"];
 	NSError *error = nil;
-	QTMovie *midi = [[[QTMovie alloc] initWithDataReference:dataRef error:&error] autorelease];
+	AVMIDIPlayer *midi = [[[AVMIDIPlayer alloc] initWithData:data soundBankURL: nil error:&error] autorelease];
 	if (error) {
-		[gameSelectController stopQtSound];
+		[gameSelectController stopSound];
 	} else {
 		self.currentlyPlayingMidiData = data;
-		[gameSelectController playQtSound:midi];
+		[gameSelectController playSound:midi];
 	}
 }
 

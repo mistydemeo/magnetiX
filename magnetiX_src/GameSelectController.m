@@ -120,7 +120,6 @@
 	[self adaptUI];
 	
 	NSNotificationCenter *nc = [NSNotificationCenter defaultCenter];
-	[nc addObserver:self selector:@selector(QTMovieDidEnd) name:QTMovieDidEndNotification object:nil];
 }
 
 
@@ -561,35 +560,44 @@
 }
 
 
-- (void)playQtSound:(QTMovie *)newSound
+- (void)playSound:(NSObject *)newSound
 {
-	if (isQtSoundPlaying) {
-		[self.qtSound stop];
+	if (isSoundPlaying) {
+		[self.sound stop];
 	}
 	
-	self.qtSound = newSound;
+	self.sound = newSound;
     
-	[newSound play];
-	isQtSoundPlaying = YES;
+    // AVMIDIPlayer and AVAudioPlayer have almost the same API
+    // for our purposes, except that AVMIDIPlayer:play takes a callback
+    // that is executed when the song ends.
+    if ([newSound class] == [AVMIDIPlayer class]) {
+    	[newSound play: ^{
+    		[self AVAudioPlayerDidEnd];
+    	}];
+    } else {
+    	[newSound play];
+    }
+	isSoundPlaying = YES;
 }
 
 
-- (void)stopQtSound
+- (void)stopSound
 {
 	[magneticController setCurrentlyPlayingMidiData:nil];
 	
-	if (isQtSoundPlaying) {
-		[self.qtSound stop];
-		isQtSoundPlaying = NO;
+	if (isSoundPlaying) {
+		[self.sound stop];
+		isSoundPlaying = NO;
 	}
 }
 
 
-- (void)QTMovieDidEnd
+- (void)AVAudioPlayerDidEnd
 {
 	[magneticController setCurrentlyPlayingMidiData:nil];
 
-	isQtSoundPlaying = NO;
+	isSoundPlaying = NO;
 	
 	if (![magneticController selectedGame]) {
 		[self changeMusicButton:NSOffState];
@@ -599,8 +607,8 @@
 
 - (void)playTitleMusic:(NSURL *)theUrl
 {
-	QTMovie *mp3 = [[[QTMovie alloc] initWithURL:theUrl error:nil] autorelease];
-	[self playQtSound:mp3];
+	AVAudioPlayer *mp3 = [[[AVAudioPlayer alloc] initWithContentsOfURL:theUrl error:nil] autorelease];
+	[self playSound:mp3];
 }
 
 
@@ -608,11 +616,11 @@
 {
 	int currentGame = [[[gameSelectTabView selectedTabViewItem] identifier] intValue] - 1;
 	if (currentGame > 7){ currentGame -= 5; }
-	if (!isQtSoundPlaying) {
+	if (!isSoundPlaying) {
 		[self playTitleMusic:[NSURL fileURLWithPath:[self checkForFile: [theGames[currentGame][0] stringByAppendingString:@".mp3"]]]];
 	} else {
-		[self.qtSound stop];
-		isQtSoundPlaying = NO;
+		[self.sound stop];
+		isSoundPlaying = NO;
 	}
 }
 
@@ -637,9 +645,9 @@
 		return;
 	}
 	
-	if (isQtSoundPlaying) {
-		[_qtSound stop];
-		isQtSoundPlaying = NO;
+	if (isSoundPlaying) {
+		[_sound stop];
+		isSoundPlaying = NO;
 		[self changeMusicButton:NSOffState];
 	}
 	[magneticController startGame:[self currentlyVisibleGame] from:sender];
@@ -806,7 +814,7 @@
 {	
 	[[NSUserDefaults standardUserDefaults] setInteger:[[tabViewItem identifier] intValue] forKey:@"gameSelected"];
 	
-	[self stopQtSound];
+	[self stopSound];
 	[self playThemeIfNeeded];
 	[self updateCollectionAnim];
 }
