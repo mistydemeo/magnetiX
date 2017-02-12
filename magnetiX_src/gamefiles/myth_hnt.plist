@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+
+	<string>Myth</string>
+	
+	<array>
+		<string>Grand Hallway</string>
+		<array>
+			<string>What should I put in the groove?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>Put the large piece of mirror in the groove.</string>
+			</array>
+		</array>
+	</array>
+	
+	<array>
+		<string>Long Sloping Corridor</string>
+		<array>
+			<string>This room is pitch black. Where do I find some light?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>You must reflect light from outside using some mirrored objects.</string>
+				<array>
+					<string>What do I use to reflect the sunlight?</string>
+					<array>
+						<string>HINT 2</string>
+						<string>You need the mirror from the fireplace and the polished shield.</string>
+					</array>
+				</array>
+				<array>
+					<string>I have two objects to reflect the sunlight, but cannot find a third. Where is it?</string>
+					<array>
+						<string>HINT 3</string>
+						<string>The three objects are the shield and the mirror from the fireplace (this must be broken in half before using it).</string>
+					</array>
+				</array>
+			</array>
+		</array>
+	</array>
+	
+	<array>
+		<string>On the Ferry</string>
+		<array>
+			<string>How can I get into the Wheelhouse?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>You will have to be either Charon or Death to get into the Wheelhouse.</string>
+			</array>
+		</array>
+		<array>
+			<string>How do I get through the locked hatch?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>You will have to be a soul to get through the hatch.</string>
+			</array>
+		</array>
+	</array>
+	
+	<array>
+		<string>Outside Hades' Gates</string>
+		<array>
+			<string>How do I get through the Gates to the Underworld?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>You will have to either slay the Hydra or find a way through the swamp.</string>
+			</array>
+		</array>
+		<array>
+			<string>What do I use to kill the Hydra?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>You will need a weapon, but it must be treated in a special way to have any affect.</string>
+				<array>
+					<string>I still cannot find out what weapon to use.</string>
+					<array>
+						<string>HINT 2</string>
+						<string>It is the trident that you are carrying at the beginning of the game.</string>
+					</array>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>I know what to use, but still can't kill the Hydra. How do I do it?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>Your weapon must be treated with something found in the garden before trying to kill the Hydra.</string>
+				<array>
+					<string>What do I use to treat the trident?</string>
+					<array>
+						<string>HINT 2</string>
+						<string>The foxglove leaves.</string>
+					</array>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>How do I fight the Hydra?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>From a distance (try throwing things at it).</string>
+			</array>
+		</array>
+		<array>
+			<string>How do I get through the swamp?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>From the Gates, try going North West and reading the description.</string>
+				<array>
+					<string>I still cannot get through the swamp.</string>
+					<array>
+						<string>HINT 2</string>
+						<string>In the description, it states that the swamp is three feet deeper than you are. Go to the garden and try to find something three feet long that will help you survive.</string>
+					</array>
+				</array>
+			</array>
+		</array>
+	</array>
+	
+	<array>
+		<string>Outside Hades' Palace</string>
+		<array>
+			<string>How do I open the portcullis?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>You have to pull the rope to the East of this location.</string>
+			</array>
+		</array>
+	</array>
+	
+	<array>
+		<string>Outside Hades' Walls</string>
+		<array>
+			<string>How do I keep the rope pulled taut and keep the portcullis open?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>You will need to tie something onto the rope that is heavy enough to keep the portcullis open.</string>
+				<array>
+					<string>What do I need to tie to the rope?</string>
+					<array>
+						<string>HINT 2</string>
+						<string>A large amount of meat that will attract the scavenger birds. The meat's and the bird's weight combined will keep the portcullis open.</string>
+					</array>
+				</array>
+				<array>
+					<string>I know what I need, but where do I get the object to tie to the rope?</string>
+					<array>
+						<string>HINT 3</string>
+						<string>From the Hydra - you need it's ninth head!</string>
+					</array>
+				</array>
+			</array>
+		</array>
+	</array>
+	
+	<array>
+		<string>Punishment Fields</string>
+		<array>
+			<string>I cannot find a use for the hat.</string>
+			<array>
+				<string>HINT 1</string>
+				<string>Try wearing it. There is no other use for the hat.</string>
+			</array>
+		</array>
+	</array>
+	
+	<array>
+		<string>Swamp</string>
+		<array>
+			<string>Going through the marshland gets me nowhere. Do I need to go this way?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>You can get past the Hydra this way, but you'll have to come back for the Hydra later.</string>
+			</array>
+		</array>
+	</array>
+
+	<array>
+		<string>Small Ante-Room</string>
+		<array>
+			<string>What use is the stone pillar in this room?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>You need to place something into the groove.</string>
+			</array>
+			<array>
+				<string>HINT 2</string>
+				<string>It's the shield.</string>
+			</array>
+		</array>
+	</array>
+
+	<array>
+		<string>Tranquil Garden</string>
+		<array>
+			<string>How do I catch the Lamb?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>You do not need to use a weapon, try leaping out on it when it's vulnerable.</string>
+				<array>
+					<string>I still cannot catch the Lamb.</string>
+					<array>
+						<string>HINT 2</string>
+						<string>Climb the tree and wait until the lamb sits underneath, then jump on it.</string>
+					</array>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>I've caught the Lamb, but don't know what to do with it!</string>
+			<array>
+				<string>HINT 1</string>
+				<string>Wait until you find a reason to use the Lamb - it has something to do with the gods!</string>
+				<array>
+					<string>I still cannot find any use for the Lamb.</string>
+					<array>
+						<string>HINT 2</string>
+						<string>You need to sacrifice it on the altar.</string>
+					</array>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>I think I need to find a container. What do I use?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>Who says you need a container?</string>
+				<array>
+					<string>What else could I do?</string>
+					<array>
+						<string>HINT 2</string>
+						<string>Try dipping things in it!</string>
+					</array>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>What use is the forbidden fruit?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>The fruit has no use at all in the game.</string>
+			</array>
+		</array>
+	</array>
+
+	<array>
+		<string>Wooden Jetty (Southside)</string>
+		<array>
+			<string>What use is the horn?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>Blow the horn to summon the ferry from across the other side of the River Styx.</string>
+			</array>
+		</array>
+		<array>
+			<string>Do I need a coin to pay the Ferryman? Where do I get some money?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>You do not need the coin for the Ferryman, but you will need it for something else. The only coins in the game are obols - and these can be found under the tongues of the souls that come down to the River Styx.</string>
+				<array>
+					<string>I cannot get a coin from the souls.</string>
+					<array>
+						<string>HINT 2</string>
+						<string>Try GET COIN FROM SOUL - but you must have pleased the gods first if you want to get one!</string>
+					</array>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>How do I get the keys across the River Styx?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>Read the note in the Wooden Shack.</string>
+				<array>
+					<string>I've read the note, but cannot find the object it refers to!</string>
+					<array>
+						<string>HINT 2</string>
+						<string>Ask Charon about the license and he will hint how you will get hold of it.</string>
+					</array>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>I can't get Charon and Death to play cards with me.</string>
+			<array>
+				<string>HINT 1</string>
+				<string>Ask Death about the cards. This will begin the game.</string>
+			</array>
+		</array>
+		<array>
+			<string>How do I get the keys across the River Styx.</string>
+			<array>
+				<string>HINT 1</string>
+				<string>You cannot carry them all at once. They have to be done in a certain sequence and you must have an import license.</string>
+				<array>
+					<string>What is the sequence to get them across?</string>
+					<array>
+						<string>HINT 2</string>
+						<string>The solution to the key puzzle is: Take two large keys across and bring one large key back. Take two large keys across and bring one large key back. Take two small keys across and bring one small and one large key back. Take two small keys across and bring one large key back. Take two large keys across and bring one large key back. And finally, take two large keys across.</string>
+					</array>
+				</array>
+			</array>
+		</array>
+	</array>
+
+	<array>
+		<string>Wooden Shack</string>
+		<array>
+			<string>How can I play cards? I have no money to bet with.</string>
+			<array>
+				<string>HINT 1</string>
+				<string>Try searching about on the jetty - you'll find some there.</string>
+			</array>
+		</array>
+		<array>
+			<string>How do I beat Charon at cards as he keeps leaving halfway through the game?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>You need to cheat. Clue: You must add something to the room before you play – try mapping the Shack for an aerial picture of the scene!</string>
+				<array>
+					<string>I cannot find a way to cheat.</string>
+					<array>
+						<string>HINT 2</string>
+						<string>You need to put a mirror behind where Charon is sitting, to see his hand.</string>
+					</array>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>I have thousands of obols, but have still not been given the import license. What am I doing wrong?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>You need to win the game in one sitting; if Charon goes across the River Styx, he will collect a lot more money from the ferry toll.</string>
+				<array>
+					<string>Charon and Death leave the room in the middle of our game. How do I stop this?</string>
+					<array>
+						<string>HINT 2</string>
+						<string>Do not follow them out, because you have to complete the card game in one sitting. You need to be cheating at cards to keep them at the table. Note what Charon says when he leaves the table.</string>
+					</array>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>How much must I win at cards?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>In one sitting, you must win over five hundred obols from Charon.</string>
+			</array>
+		</array>
+	</array>
+
+</array>
+</plist>

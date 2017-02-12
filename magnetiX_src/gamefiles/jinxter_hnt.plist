@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Jinxter</string>
+	<array>
+		<string>How do I get off the bus?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>Try ringing the bell.</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>Where do I get off the bus?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>At the correct stop.</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Just do as you are told.</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>Two stops from the start of the journey.</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I get past the bull?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>Ask a vicar; he's a man of the cloth.</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>You'll see red when you realise how easy it is.</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>You know what they say:+</string>
+		</array>
+		<array>
+			<string>HINT 4</string>
+			<string>Like showing a red rag to a bull.</string>
+		</array>
+		<array>
+			<string>HINT 5</string>
+			<string>I suppose I could drop you a subtle hint.</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I get past the barbed-wire fence?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>It's a high quality fence: a cut above the rest.</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Don't expect any cutting remarks from me.</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>Get a grip of yourself kdd hold on tight.</string>
+		</array>
+		<array>
+			<string>HINT 4</string>
+			<string>A gardeners protection will suffice.</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I see in the dark?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>Not very well, I should imagine.</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Game pie is a strange mixture:+</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>You certainly don't want double helpings.</string>
+		</array>
+		<array>
+			<string>HINT 4</string>
+			<string>Listen, a bird in the bush is worth+</string>
+		</array>
+		<array>
+			<string>HINT 5</string>
+			<string>Two in the hand. Isn't it?</string>
+		</array>
+		<array>
+			<string>HINT 6</string>
+			<string>Listen to the magpie.</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I catch a mouse?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>You have to set a trap.</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>You'll need some bait.</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>Cheese is a rodent's favourite nibble.</string>
+		</array>
+		<array>
+			<string>HINT 4</string>
+			<string>Patience is a virtue.</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I open Xam's mailbox?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>I'm sure you'll warm to this one.</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Strange things happen in the heat of the moment.</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>Don't break the mould: just change it a little.</string>
+		</array>
+		<array>
+			<string>HINT 4</string>
+			<string>Warm the plastic key.</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>Why does the mad gardener run away with the sack?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>Sounds like he heard you coming?</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Why don't you surprise me with an+</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>Unannounced entrance?</string>
+		</array>
+		<array>
+			<string>HINT 4</string>
+			<string>He probably did a runner because you +</string>
+		</array>
+		<array>
+			<string>HINT 5</string>
+			<string>Neglected the runners.</string>
+		</array>
+		<array>
+			<string>HINT 6</string>
+			<string>Oil is a wonderful lubricant.</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I get the oil?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>It doesn't cut any ice with me.</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Water is an expanding comodity,+</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>Especially when it's cold.</string>
+		</array>
+		<array>
+			<string>HINT 4</string>
+			<string>Don't be dense: expand your horizons.</string>
+		</array>
+		<array>
+			<string>HINT 5</string>
+			<string>Freeze the solution.</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I repair the canoe?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>A little stiff might do the trick.</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Or perhaps a larger bung?</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>Your feet may! Nbject, but the bung won't.</string>
+		</array>
+		<array>
+			<string>HINT 4</string>
+			<string>Put the bung in the sock or use a mouse.</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I get past the mound of dirt?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>Come on, loosen up!</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>I'm sure you can worm your way out of this one.</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>This is a whole new can of worms.</string>
+		</array>
+		<array>
+			<string>HINT 4</string>
+			<string>Empty the can of worms onto the mound of dirt.</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I reach the chandelier?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>Perhaps you're not quite suited to this task.</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>It's no use feeling flushed.</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>What do you expect? A flood of ideas?</string>
+		</array>
+		<array>
+			<string>HINT 4</string>
+			<string>Flood the library.+</string>
+		</array>
+		<array>
+			<string>HINT 5</string>
+			<string>You'll find you can swim around.</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>What do I do in the bakery?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>Employ yourself usefully.</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Are you up to the job?</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>There's no harm in asking, is there?</string>
+		</array>
+		<array>
+			<string>HINT 4</string>
+			<string>Ask the baker for the job.</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>What do I do in the bakery kitchen?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>There's something very valuable down there.</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>You may have to sift a few ideas.</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>Sieve the flour.</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I get back out past the baker?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>Bake the bread, as he asked you to.</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Don't bake the bread as he asked you to.</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>There's some spare room in the baking tin.</string>
+		</array>
+		<array>
+			<string>HINT 4</string>
+			<string>Bake the charm with the bread.</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I get rid of the postmistress?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>There are no two ways about this.+</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Well, actually there are.</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>Come on, put a sock in it.</string>
+		</array>
+		<array>
+			<string>HINT 4</string>
+			<string>What's small, furry and stiff?</string>
+		</array>
+		<array>
+			<string>HINT 5</string>
+			<string>Put the sock in the bell or show the+</string>
+		</array>
+		<array>
+			<string>HINT 6</string>
+			<string>Postmistress the mouse.</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I crack the safe?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>You need to handle it correctly.+</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Are you getting all this down?</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>You'll clock this one, if you're wise.</string>
+		</array>
+		<array>
+			<string>HINT 4</string>
+			<string>They say one has influence at the top;+</string>
+		</array>
+		<array>
+			<string>HINT 5</string>
+			<string>But are they right?</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I put out the pub fire?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>Do I have to spell it out?</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Perhaps we're in for a cold spell?</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>Freeze it.</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I get into the clockmaker's shop?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>Try knocking on the door.</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Have a look through the window.</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>Perhaps you should throw your weight around?</string>
+		</array>
+		<array>
+			<string>HINT 4</string>
+			<string>Timing is important. After all,+</string>
+		</array>
+		<array>
+			<string>HINT 5</string>
+			<string>He is a clockmaker.</string>
+		</array>
+		<array>
+			<string>HINT 6</string>
+			<string>Knock on the door then throw +</string>
+		</array>
+		<array>
+			<string>HINT 7</string>
+			<string>Something at the lamp.</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I reach the girder?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>It's a bit of a climb.</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Perhaps a ladder would help?</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I climb the ladder?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>Now, if it were upside down, maybe it would+</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Help. Then again, maybe not.</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>Perhaps you should think on a higher level?</string>
+		</array>
+		<array>
+			<string>HINT 4</string>
+			<string>Get on the stool, then you can reach.</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>What do I do with the weathermen?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>Hold on, are you sure about this?</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>A change in the weather may take you by surprise.</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>A short spell of rain might help.</string>
+		</array>
+		<array>
+			<string>HINT 4</string>
+			<string>Hold on to a weatherman and change the weather.</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>What do I do with the cloud?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>If there were nine, +</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>You'd probably know where you'd be.</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>Come on, put some life into the situation.</string>
+		</array>
+		<array>
+			<string>HINT 4</string>
+			<string>Animate it.</string>
+		</array>
+		<array>
+			<string>HINT 5</string>
+			<string>For a return journey, cool it down.</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I get the train ticket?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>You'll need two fergs. +</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Be careful though, there ARE only three.</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>This one will lead you a merry dance.</string>
+		</array>
+		<array>
+			<string>HINT 4</string>
+			<string>You'll need to be more entertaining.</string>
+		</array>
+		<array>
+			<string>HINT 5</string>
+			<string>Busking is not allowed - +</string>
+		</array>
+		<array>
+			<string>HINT 6</string>
+			<string>However, I doubt that will stop you.</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>Why do I keep falling off the train roof?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>Perhaps if you were inside the train?</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Fare-dodging is a risky business.</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>Do it legally (well almost), it's far safer.</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I catch the train?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>If you're quick, you may just make it.</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Try running after it.</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I cross the precipice to the castle?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>It may be a flight of fancy, but it gets results.</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>A breath of life, a mythical+</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>Beast - that's all it takes.</string>
+		</array>
+		<array>
+			<string>HINT 4</string>
+			<string>Saddle up, and you're ready to go.</string>
+		</array>
+		<array>
+			<string>HINT 5</string>
+			<string>Animate the unicorn.</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I get past the goaler?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>Tread warily.</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Perhaps there's something afoot?</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I get out of the cell?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>You need to hatch an escape+</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Plan; it's food for thought.</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>Escape is your burning desire.</string>
+		</array>
+		<array>
+			<string>HINT 4</string>
+			<string>There's no time for delay. Or is there?</string>
+		</array>
+		<array>
+			<string>HINT 5</string>
+			<string>Use the candle to burn the rope.</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I open the dome?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>It's magic, but not in the mystical sense.</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>It'll all add up if you think about it.</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>You need to form a magic square.</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>Why do I keep going through the wrong door?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>Because you weren't lucky enough.</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>Why does the witch always catch me when I walk into her chamber?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>Because she was in the room.</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>She needs to be occupied elsewhere.</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>Rescuing Xam might help.</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I kill the witch?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>The future is uncertain.</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>You'll need all your charm.</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>That's all you're going to get.</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>I've finished the game but I don't have a full score, why?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>You may have missed a puzzle somewhere.</string>
+		</array>
+	</array>
+	
+</array>
+</plist>

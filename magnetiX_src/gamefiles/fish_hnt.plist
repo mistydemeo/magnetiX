@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Fish</string>
+	<array>
+		<string>The small warp</string>
+		<array>
+			<string>How do I make coffee?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>You need Rod's kettle.</string>
+			</array>
+			<array>
+				<string>HINT 2</string>
+				<string>But Rod is the only person who can get into the kitchen.</string>
+			</array>
+			<array>
+				<string>HINT 3</string>
+				<string>Ask Rod to make the coffee.</string>
+			</array>
+		</array>
+		<array>
+			<string>How do I stop the producer bothering me?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>Mainly by getting Rod to make the coffee.</string>
+			</array>
+			<array>
+				<string>HINT 2</string>
+				<string>Then by going into the secondary control room.</string>
+			</array>
+			<array>
+				<string>HINT 3</string>
+				<string>And pressing the button there.</string>
+			</array>
+			<array>
+				<string>HINT 4</string>
+				<string>And closing the door, of course.</string>
+			</array>
+		</array>
+		<array>
+			<string>How do I listen to the tapes?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>Clean the cassette player first.</string>
+			</array>
+			<array>
+				<string>HINT 2</string>
+				<string>Using the tape cleaner from the cupboard.</string>
+			</array>
+			<array>
+				<string>HINT 3</string>
+				<string>Set the fader to a bearable volume.</string>
+			</array>
+			<array>
+				<string>HINT 4</string>
+				<string>Then play each cassette, in turn, in the player.</string>
+			</array>
+		</array>
+		<array>
+			<string>What's outside the studio?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>London.</string>
+			</array>
+			<array>
+				<string>HINT 2</string>
+				<string>But you can't get out.</string>
+			</array>
+		</array>
+		<array>
+			<string>How do I open the combination lock?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>When you've played all the tapes you should have the combination.</string>
+			</array>
+			<array>
+				<string>HINT 2</string>
+				<string>Just set the lock to the right number and open the cabinet.</string>
+			</array>
+		</array>
+	</array>
+	<array>
+		<string>The jagged warp</string>
+		<array>
+			<string>What do I do in the van?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>Find youself something to wear.</string>
+			</array>
+			<array>
+				<string>HINT 2</string>
+				<string>And find a source of light.</string>
+			</array>
+			<array>
+				<string>HINT 3</string>
+				<string>Search the rubbish to find a torch.</string>
+			</array>
+		</array>
+		<array>
+			<string>What do I do with the hippies?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>Don't get involved with the hippies.</string>
+			</array>
+			<array>
+				<string>HINT 2</string>
+				<string>One of them is from the Seven Deadly Fins.</string>
+			</array>
+		</array>
+		<array>
+			<string>Where do the catacombs lead?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>There's an entrance to the altar room hidden in the catacombs.</string>
+			</array>
+			<array>
+				<string>HINT 2</string>
+				<string>Search the rubbish.</string>
+			</array>
+			<array>
+				<string>HINT 3</string>
+				<string>Move the sarcophagus lid.</string>
+			</array>
+		</array>
+		<array>
+			<string>What about the gargoyle?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>You need to remove it from the archway.</string>
+			</array>
+			<array>
+				<string>HINT 2</string>
+				<string>Take the pew to the archway so you can climb up.</string>
+			</array>
+			<array>
+				<string>HINT 3</string>
+				<string>Tie the cord to the gargoyle, then pull the cord.</string>
+			</array>
+			<array>
+				<string>HINT 4</string>
+				<string>Better still, climb down before you pull the cord.</string>
+			</array>
+			<array>
+				<string>HINT 5</string>
+				<string>Then take the gargoyle to the altar room and put it in the hole.</string>
+			</array>
+		</array>
+		<array>
+			<string>How do I stop the hippies catching me?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>Turn the torch off if you want to sneak past them.</string>
+			</array>
+			<array>
+				<string>HINT 2</string>
+				<string>Stop them from chasing you by blocking their path.</string>
+			</array>
+			<array>
+				<string>HINT 3</string>
+				<string>Put the sarcophagus lid in the doorway.</string>
+			</array>
+		</array>
+		<array>
+			<string>How do I deal with the hippies?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>Look into the chalice before taking the grommet.</string>
+			</array>
+		</array>
+	</array>
+	<array>
+		<string>The smooth warp</string>
+		<array>
+			<string>How do I get the gold disk?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>Just take it out of the stump.</string>
+			</array>
+			<array>
+				<string>HINT 2</string>
+				<string>When Micky isn't there.</string>
+			</array>
+			<array>
+				<string>HINT 3</string>
+				<string>After the explosion has distracted him.</string>
+			</array>
+		</array>
+		<array>
+			<string>Why does the parrot keep exploding?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>Because someone has fitted it with a stomach bomb.</string>
+			</array>
+			<array>
+				<string>HINT 2</string>
+				<string>Try to let the bird explode somewhere safe.</string>
+			</array>
+			<array>
+				<string>HINT 3</string>
+				<string>Open his cage and then clear the area!</string>
+			</array>
+		</array>
+		<array>
+			<string>How do I get the mould from the bird cage?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>Only by making the bird explode away from the cage.</string>
+			</array>
+		</array>
+		<array>
+			<string>What can I do with the goodies in the cupboard?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>The gloves are good protection when handling hot things.</string>
+			</array>
+			<array>
+				<string>HINT 2</string>
+				<string>The tongs allow you to hold things over the fire.</string>
+			</array>
+			<array>
+				<string>HINT 3</string>
+				<string>The hammer should be used to break the mould.</string>
+			</array>
+			<array>
+				<string>HINT 4</string>
+				<string>The crucible can withstand the heat of the fire.</string>
+			</array>
+		</array>
+		<array>
+			<string>How do I cast a gold ring?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>Be sure to wear the gloves.</string>
+			</array>
+			<array>
+				<string>HINT 2</string>
+				<string>Put the disk into the crucible.</string>
+			</array>
+			<array>
+				<string>HINT 3</string>
+				<string>Hold the crucible over the fire with the tongs.</string>
+			</array>
+			<array>
+				<string>HINT 4</string>
+				<string>Pour the molten gold into the mould.</string>
+			</array>
+			<array>
+				<string>HINT 5</string>
+				<string>Cool the mould.</string>
+			</array>
+		</array>
+		<array>
+			<string>How do I cool the mould?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>Go to the cool glade.</string>
+			</array>
+			<array>
+				<string>HINT 2</string>
+				<string>Avoiding Micky Blowtorch from now on.</string>
+			</array>
+			<array>
+				<string>HINT 3</string>
+				<string>Also avoiding the wet parts of the forest.</string>
+			</array>
+		</array>
+	</array>
+	<array>
+		<string>The large warp</string>
+		<array>
+			<string>Paddlington</string>
+			<array>
+				<string>How do I get out of the apartment?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Open the door by putting your hand on the print.</string>
+				</array>
+			</array>
+			<array>
+				<string>How do I get into Eric Chub's apartment?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Try opening his door.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>Now give up - you can't.</string>
+				</array>
+			</array>
+			<array>
+				<string>What if Dr. Roach's apartment is robbed?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Never mind - these things happen.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>You can regain the stolen goods at the second-hand shop.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>But you'll have to buy them back with your fisa card.</string>
+				</array>
+			</array>
+			<array>
+				<string>Through the dark warp</string>
+				<array>
+					<string>HINT 1</string>
+					<string>The cylinder is in the last location.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>You won't be able to map this area - You are NOT in a maze.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>Try to think of this as a purely logical puzzle.</string>
+				</array>
+				<array>
+					<string>HINT 4</string>
+					<string>Think just in terms of the pattern of exits.</string>
+				</array>
+				<array>
+					<string>HINT 5</string>
+					<string>Draw a picture of your current location then go through an exit and see how that picture is changed.</string>
+				</array>
+				<array>
+					<string>HINT 6</string>
+					<string>Try to make a location that has N, NE &amp; E exits only.</string>
+				</array>
+				<array>
+					<string>HINT 7</string>
+					<string>Then go NE.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>On the underground</string>
+			<array>
+				<string>HINT 1</string>
+				<string>Have you bought a ticket?</string>
+			</array>
+			<array>
+				<string>HINT 2</string>
+				<string>Using your fisa card at the station.</string>
+			</array>
+			<array>
+				<string>HINT 3</string>
+				<string>I thought not. Use your travel pass instead.</string>
+			</array>
+			<array>
+				<string>HINT 4</string>
+				<string>It was hidden under the fishton.</string>
+			</array>
+		</array>
+		<array>
+			<string>Barbellican</string>
+			<array>
+				<string>HINT 1</string>
+				<string>Not a very interesting place really.</string>
+			</array>
+			<array>
+				<string>HINT 2</string>
+				<string>You can't get out here.</string>
+			</array>
+		</array>
+		<array>
+			<string>In the city</string>
+			<array>
+				<string>In the pub</string>
+				<array>
+					<string>What about all these snifters?</string>
+					<array>
+						<string>HINT 1</string>
+						<string>If you sniff them you'll get drunk.</string>
+					</array>
+					<array>
+						<string>HINT 2</string>
+						<string>The drunk can cope with as many as you can buy for him.</string>
+					</array>
+					<array>
+						<string>HINT 3</string>
+						<string>Don't sniff them yourself.</string>
+					</array>
+				</array>
+				<array>
+					<string>What about the drunk?</string>
+					<array>
+						<string>Buying him snifters</string>
+						<array>
+							<string>HINT 1</string>
+							<string>You'll get his gratitude for just a few snifters.</string>
+						</array>
+					</array>
+					<array>
+						<string>Getting his identity card</string>
+						<array>
+							<string>HINT 1</string>
+							<string>Buy him a snifter.</string>
+						</array>
+						<array>
+							<string>HINT 2</string>
+							<string>Then ask him for the card.</string>
+						</array>
+					</array>
+				</array>
+				<array>
+					<string>How do I get the cylinder?</string>
+					<array>
+						<string>HINT 1</string>
+						<string>Once you've bought the drunk 3 snifters the barman will sell it to you.</string>
+					</array>
+					<array>
+						<string>HINT 2</string>
+						<string>When it has been stolen simply follow Panchax's instructions.</string>
+					</array>
+					<array>
+						<string>HINT 3</string>
+						<string>Go through the dark warp in your apartment.</string>
+					</array>
+				</array>
+			</array>
+			<array>
+				<string>The hardware shop</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Buy the screwdriver, hyperdriver and black plastic bag.</string>
+				</array>
+			</array>
+			<array>
+				<string>The music shop</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Buy the ear plugs.</string>
+				</array>
+			</array>
+			<array>
+				<string>The second hand shop</string>
+				<array>
+					<string>HINT 1</string>
+					<string>You can't buy the radio case, Eric Chub beat you to it.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>You can buy the film.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>But that won't help.</string>
+				</array>
+				<array>
+					<string>HINT 4</string>
+					<string>Buy anything that used to belong to Dr. Roach.</string>
+				</array>
+				<array>
+					<string>HINT 5</string>
+					<string>This way they'll deliver the radio case!</string>
+				</array>
+			</array>
+			<array>
+				<string>The clothing store</string>
+				<array>
+					<string>HINT 1</string>
+					<string>The dark glasses and kipper tie would look very trendy.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>The jackets would complete the look.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>But you can't afford the jackets - Oh dear.</string>
+				</array>
+			</array>
+			<array>
+				<string>The police station</string>
+				<array>
+					<string>HINT 1</string>
+					<string>If you lose anything in Fishworld this is the place to come for it.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>Otherwise the police fish is totally useless.</string>
+				</array>
+			</array>
+			<array>
+				<string>The cinema</string>
+				<array>
+					<string>HINT 1</string>
+					<string>You can get in for free if you provide them with a film.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>Or you can buy a ticket to get in.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>But it's just a waste of time.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Opah University</string>
+			<array>
+				<string>Seeing the principal</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Just get there by 10 o'clock.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>Or you'll be suspected of sabotage.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>And quite probably murdered.</string>
+				</array>
+			</array>
+			<array>
+				<string>Getting through the metal doors</string>
+				<array>
+					<string>HINT 1</string>
+					<string>You need authorisation from the principal and your identity card.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>Put the id card into the slot.</string>
+				</array>
+			</array>
+			<array>
+				<string>In the library</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Look up something useful in the book.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>The focus wheel would be a good idea.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>Then tear out that page.</string>
+				</array>
+			</array>
+			<array>
+				<string>In the research wing</string>
+				<array>
+					<string>HINT 1</string>
+					<string>You can tune an untuned crystal with the crystal tuna.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>You can get through the trap-door if you have a bag and access to some gas.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>When on the roof don't try coming back through the trap-door.</string>
+				</array>
+				<array>
+					<string>HINT 4</string>
+					<string>Jump over the railings with the photon bridge.</string>
+				</array>
+			</array>
+			<array>
+				<string>In the lab</string>
+				<array>
+					<string>Using the computer</string>
+					<array>
+						<string>How do I use the computer?</string>
+						<array>
+							<string>HINT 1</string>
+							<string>Login on the computer - your password is in your fax.</string>
+						</array>
+						<array>
+							<string>HINT 2</string>
+							<string>Your password is `ME'.</string>
+						</array>
+					</array>
+					<array>
+						<string>What do I use it for?</string>
+						<array>
+							<string>HINT 1</string>
+							<string>Use the computer to identify the villain.</string>
+						</array>
+						<array>
+							<string>HINT 2</string>
+							<string>Play one of the games to find out who the villain is.</string>
+						</array>
+						<array>
+							<string>HINT 3</string>
+							<string>Find out how to build a stream regulator too.</string>
+						</array>
+					</array>
+					<array>
+						<string>Which games should I play?</string>
+						<array>
+							<string>HINT 1</string>
+							<string>The Gilled or The Prawn will identify the villain.</string>
+						</array>
+						<array>
+							<string>HINT 2</string>
+							<string>Fish! is a great game too.</string>
+						</array>
+						<array>
+							<string>HINT 3</string>
+							<string>Play it and see.</string>
+						</array>
+					</array>
+				</array>
+				<array>
+					<string>At the restaurant</string>
+					<array>
+						<string>HINT 1</string>
+						<string>Did you remember to book a table?</string>
+					</array>
+					<array>
+						<string>HINT 2</string>
+						<string>Then you'll have to manage with a take-away.</string>
+					</array>
+					<array>
+						<string>HINT 3</string>
+						<string>Just buy a sachet of plankton.</string>
+					</array>
+				</array>
+				<array>
+					<string>Going to the disco</string>
+					<array>
+						<string>HINT 1</string>
+						<string>You'll need to protect your ears and eyes to go in safely.</string>
+					</array>
+					<array>
+						<string>HINT 2</string>
+						<string>Dark glasses and ear plugs should do the trick.</string>
+					</array>
+					<array>
+						<string>HINT 3</string>
+						<string>Invite a friend if you really want to enjoy yourself.</string>
+					</array>
+					<array>
+						<string>HINT 4</string>
+						<string>Invite the villain.</string>
+					</array>
+					<array>
+						<string>HINT 5</string>
+						<string>But he'll want that lovely kipper tie.</string>
+					</array>
+				</array>
+			</array>
+			<array>
+				<string>Making the stream regulator</string>
+				<array>
+					<string>HINT 1</string>
+					<string>The formula for a stream regulator is on the computer.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>The meaning of the formula is written on the wall chart.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>The power station</string>
+			<array>
+				<string>The power gauge</string>
+				<array>
+					<string>HINT 1</string>
+					<string>To make it read `0' you'll have to turn everything off.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>That includes the light switch in Dr. Roach's apartment.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>And the proto-copier in the lab.</string>
+				</array>
+				<array>
+					<string>HINT 4</string>
+					<string>And the tube system itself.</string>
+				</array>
+			</array>
+			<array>
+				<string>Opening the doors</string>
+				<array>
+					<string>HINT 1</string>
+					<string>You can't find a handle, and pushing and pulling doesn't help.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>Just make the guage read `0' and the doors will open themselves.</string>
+				</array>
+			</array>
+			<array>
+				<string>Getting the filter</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Simply undo the screw with an ordinary screwdriver.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>Then run for it before someone turns on the power.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>The Museum</string>
+			<array>
+				<string>HINT 1</string>
+				<string>Can't seem to get past the beams of light in the alarm room?</string>
+			</array>
+			<array>
+				<string>HINT 2</string>
+				<string>Maybe if you could see them more clearly.</string>
+			</array>
+			<array>
+				<string>HINT 3</string>
+				<string>The dark glasses...</string>
+			</array>
+			<array>
+				<string>HINT 4</string>
+				<string>... won't help at all.</string>
+			</array>
+			<array>
+				<string>HINT 5</string>
+				<string>Open the sachet of plankton in the alarm room.</string>
+			</array>
+			<array>
+				<string>HINT 6</string>
+				<string>Don't eat the plankton.</string>
+			</array>
+		</array>
+		<array>
+			<string>Angel</string>
+			<array>
+				<string>HINT 1</string>
+				<string>It's much the same as Barbellican in fact.</string>
+			</array>
+			<array>
+				<string>HINT 2</string>
+				<string>Try to use the help system as little as possible.</string>
+			</array>
+			<array>
+				<string>HINT 3</string>
+				<string>You're not trying hard enough.</string>
+			</array>
+		</array>
+		<array>
+			<string>Defeating the seven deadly fins</string>
+			<array>
+				<string>HINT 1</string>
+				<string>If you repair the device before 4 o'clock, you'll win.</string>
+			</array>
+			<array>
+				<string>HINT 2</string>
+				<string>Then you can defeat the fins in unarmed combat.</string>
+			</array>
+			<array>
+				<string>HINT 3</string>
+				<string>In a later game perhaps.</string>
+			</array>
+		</array>
+	</array>
+</array>
+</plist>

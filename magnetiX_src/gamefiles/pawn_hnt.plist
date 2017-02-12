@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>The Pawn</string>
+	<array>
+		<string>How do I cross the Red Line?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>Drop the Lot</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Sure you're not carrying something?</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>And what about the wristband?</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>Why is the guru laughing?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>Ask him, not me</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Pity you can't drop that wristband yet</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>Try stopping him from seeing it</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I drop the wristband?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>Hard, isn't it?</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Damn, I'd forgotten just how hard this one was...</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>Try asking someone to do it for you</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I get into the shed?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>This one's really obvious</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Where do you normally leave your key</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>Try your pocket. Really!</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>What does the guru want?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>No, it's not a Keema Nan</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>The answer is elementary, my dear Adventurer</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>Not the bubbly sort</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I get past the guards?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>Give them something</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Perhaps if they knew what you wanted...</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>What else would you do with a demand for ransom?</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>What do I do with the note?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>Try reading it?</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>On second thoughts, don't try reading it!</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>Better do as Kronos asked</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I buy things?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>You'll need something of value</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>People round here are pretty careless with money</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>Search the dwarves' furniture carefully</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I get the lead?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>It's embedded in the rock</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Use any sharp tool</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I read the tomes?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>Cast a spell - Like it says</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>This game is a parody, after all. Try 'Cast Spell'</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>There is no third clue - bet you're sorry you typed it in now</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I use the aerosoul?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>No, it's not a spelling mistake, smart-arse!</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>You need to kill someone first</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>... And they must be freshly dead</string>
+		</array>
+		<array>
+			<string>HINT 4</string>
+			<string>Press nozzle</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I kill Kronos?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>Whole list of tedious clues coming up</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>You'll need help from another source</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>You must kill him in his lair</string>
+		</array>
+		<array>
+			<string>HINT 4</string>
+			<string>Throw the potion bottle at him</string>
+		</array>
+		<array>
+			<string>HINT 5</string>
+			<string>You don't get long to do it</string>
+		</array>
+		<array>
+			<string>HINT 6</string>
+			<string>You could try the thermonuclear device</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>Where's the thermonuclear device?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>Try a completely different adventure. 'Lord of the Reagans', perhaps..</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I use the platform?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>Pretend you're Kronos</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>The platform has only one way of telling if you're Kronos</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>Think of it as a large weighing machine</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>What can I do with the devil?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>Try doing what he asks</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I get past the cream doors?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>Knock (Are you sure you're into adventures?)</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Check you haven't got the wristband</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I work the lift?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>Summon it</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Wait for it...</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>It's just like a real lift</string>
+		</array>
+		<array>
+			<string>HINT 4</string>
+			<string>And it has sliding doors</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I vote?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>You need a ballot paper - Are you an anarchist or something?</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Try looking under the rug</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>The safe is not as empty as it first appears</string>
+		</array>
+		<array>
+			<string>HINT 4</string>
+			<string>Being ideologically unsound will cost you points</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I kill the adventurer?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>I'm not sure I can condone this kind of thing..</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Well, if you must... Only Kronos can help</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I get past the dragon?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>The dragon is very short-sighted</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>He is also very hungry</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>Try showing him something else to eat</string>
+		</array>
+		<array>
+			<string>HINT 4</string>
+			<string>He needs to have them illuminated as well</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I move the wheelbarrow?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>The wheelbarrow is very heavy</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>The wheelbarrow is not designed to be moved - bet you're sorry you asked now...</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I get through the double doors?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>Be polite</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Many times</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>And tip the porter</string>
+		</array>
+		<array>
+			<string>HINT 4</string>
+			<string>Otherwise you'll scotch your chances</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I get past the paper wall room?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>Paper can be torn</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>You look in the cupboard</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>You need a rope</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>I've won but not with a full score. Why?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>I'm 25, but I haven't got a proper job, why? I don't know, these things just happen, that's all...</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Did you cheat?</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>You need to buy drinks for 2 people</string>
+		</array>
+		<array>
+			<string>HINT 4</string>
+			<string>Whether you enjoyed his music or not - buy him one</string>
+		</array>
+		<array>
+			<string>HINT 5</string>
+			<string>Have you found the Pot Plant?</string>
+		</array>
+		<array>
+			<string>HINT 6</string>
+			<string>Try potting it properly</string>
+		</array>
+		<array>
+			<string>HINT 7</string>
+			<string>Use the right sort of implement</string>
+		</array>
+		<array>
+			<string>HINT 8</string>
+			<string>Oh well, who wants perfection... Make do with the score you've got!</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>What about the alchemists?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>I don't know, what about them?</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Their idea of food isn't quite haute cuisine</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>The guru had some food, remember...?</string>
+		</array>
+		<array>
+			<string>HINT 4</string>
+			<string>You'll never get the gold. Lead into gold can't be done!</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>Where do I find some light?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>You need to give the guru what he wants. Then listen to him</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Now search the clearing</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>Elementary Physics - Red+Green+Blue=?</string>
+		</array>
+		<array>
+			<string>HINT 4</string>
+			<string>Mix them</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I get into the tree?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>Unlock the door - Must I tell you everything?</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Try the wooden one</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>The cat sat on the mat</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>Floorboards - How do I move them?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>They move very easily</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>Were you born in a barn?</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>Then shut the door, OK?</string>
+		</array>
+	</array>
+	
+	<array>
+		<string>How do I get past the boulders?</string>
+		<array>
+			<string>HINT 1</string>
+			<string>Find a lever?</string>
+		</array>
+		<array>
+			<string>HINT 2</string>
+			<string>... Or two</string>
+		</array>
+		<array>
+			<string>HINT 3</string>
+			<string>Now fix them together</string>
+		</array>
+	</array>
+	
+</array>
+</plist>

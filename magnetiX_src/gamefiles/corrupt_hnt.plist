@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Corruption</string>
+	<array>
+		<string>Hospital</string>
+		<array>
+			<string>Escaping</string>
+			<array>
+				<string>Why do I keep getting caught?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>In this part of the game timing is critical.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>Have you noticed the patient watching you when you leave the ward?</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>Maybe you should try to make it appear that you are heading somewhere else.</string>
+				</array>
+				<array>
+					<string>HINT 4</string>
+					<string>Maybe you could escape if you appeared to be another patient.</string>
+				</array>
+				<array>
+					<string>HINT 5</string>
+					<string>The bandages and papers will help.</string>
+				</array>
+				<array>
+					<string>HINT 6</string>
+					<string>So will the bed outside the Operating Theatre.</string>
+				</array>
+			</array>
+			<array>
+				<string>Why is Nurse Stephenson still not fooled?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Maybe it's something you are carrying!</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>If Nurse Stephenson sees you carrying any object you had when you entered the hospital then she will catch you.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>Maybe you should hide the objects you want to take with you.</string>
+				</array>
+				<array>
+					<string>HINT 4</string>
+					<string>Try the pillow case.</string>
+				</array>
+			</array>
+			<array>
+				<string>Where is the briefcase?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>There is a clue in the message you receive as you are wheeled out to the ambulance.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>It has something to do with the empty bed in the ward.</string>
+				</array>
+			</array>
+			<array>
+				<string>Explicit Solution:</string>
+				<array>
+					<string>HINT 1</string>
+					<string>The following is an outline strategy of how to escape the hospital. Use it only if you must.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>Wait until Nurse Stephenson leaves, then stand up.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>Take the pillow case, the papers and the briefcase.</string>
+				</array>
+				<array>
+					<string>HINT 4</string>
+					<string>Put the briefcase on the empty bed and then put everything on the cabinet into the pillow case.</string>
+				</array>
+				<array>
+					<string>HINT 5</string>
+					<string>Move S, E, W and then S. Moving like this will throw Nurse Stephenson off your trail.</string>
+				</array>
+				<array>
+					<string>HINT 6</string>
+					<string>Open the locker and put everything from the locker into the pillow case.</string>
+				</array>
+				<array>
+					<string>HINT 7</string>
+					<string>Put the stethoscope into the pillow case.</string>
+				</array>
+				<array>
+					<string>HINT 8</string>
+					<string>Wait if necessary and then move N and W.</string>
+				</array>
+				<array>
+					<string>HINT 9</string>
+					<string>Wear the bandage, put the papers on the bed, get on the bed.</string>
+				</array>
+				<array>
+					<string>HINT 10</string>
+					<string>Now just wait.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Ambulance</string>
+			<array>
+				<string>How do I leave the ambulance?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Don't try it when the ambulance is moving.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>When it stops at the traffic lights, move S.</string>
+				</array>
+			</array>
+			<array>
+				<string>Why does the ambulance driver catch me?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>A change of clothes may be in order.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>Don't forget the bandage.</string>
+				</array>
+			</array>
+		</array>
+	</array>
+	<array>
+		<string>Office Building</string>
+		<array>
+			<string>Car Park</string>
+			<array>
+				<string>How do I get the folder?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Break into the Volvo.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>Try the window.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>You can break the window with the screwdriver found in the glove compartment of your car.</string>
+				</array>
+			</array>
+			<array>
+				<string>How do I get into the BMW?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>The keys are in your jacket pocket.</string>
+				</array>
+			</array>
+			<array>
+				<string>How do I drive my car?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>You can't.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Cubicle</string>
+			<array>
+				<string>What do I do in a cubicle?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Well you could just use the toilet.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>But then again you could always look in the cistern.</string>
+				</array>
+			</array>
+			<array>
+				<string>Why is the cistern empty?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Timing is the key.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>Any time before 9:36am.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Margaret's Office</string>
+			<array>
+				<string>What happens here?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Follow David for a clue.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>Let Margaret complete her work.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>At about 9:16am an important envelope appears on her desk.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Mr Hughes' Office</string>
+			<array>
+				<string>How do I get past the locked door?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>A classic puzzle with a classic solution.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>You just need the right kind of credit.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>You can open the door with your credit card, however you will ruin the card.</string>
+				</array>
+			</array>
+			<array>
+				<string>How do I open the desk drawer?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>You need leverage.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>Use the screwdriver.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Theresa's Office</string>
+			<array>
+				<string>How do I get the letter?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>If you time it right the problem will go away.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>Theresa leaves her office from time to time.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>10am is the first time.</string>
+				</array>
+			</array>
+			<array>
+				<string>What letter?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>It's been shredded, you should have been here earlier.</string>
+				</array>
+			</array>
+			<array>
+				<string>How do I get into David's office?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>The key is in Theresa's desk drawer.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>You will have to wait until she leaves.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Your Partner's Office</string>
+			<array>
+				<string>Where is the safe?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Behind the television.</string>
+				</array>
+			</array>
+			<array>
+				<string>How do I open the safe?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>It's a hearing problem.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>Have you visited the hospital yet?</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>Use the stethoscope.</string>
+				</array>
+				<array>
+					<string>HINT 4</string>
+					<string>Wear the stethoscope then put the stethoscope on the safe and turn the dial four times.</string>
+				</array>
+			</array>
+			<array>
+				<string>How do I find the cassette?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>If it's not on David's desk then he has already taken it to the police. You will have to break into his office earlier in the day to obtain it.</string>
+				</array>
+			</array>
+		</array>
+	</array>
+	<array>
+		<string>General Questions</string>
+		<array>
+			<string>How do I cross the road?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>You may cross safely at either the traffic lights or the zebra crossing.</string>
+			</array>
+		</array>
+		<array>
+			<string>How do I pay for my shopping?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>Use your credit card.</string>
+			</array>
+		</array>
+		<array>
+			<string>How do I shave?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>First, find a bathroom.</string>
+			</array>
+			<array>
+				<string>HINT 2</string>
+				<string>Before you can rub the shaving soap on your beard, you will have to soften the soap by placing it in water.</string>
+			</array>
+			<array>
+				<string>HINT 3</string>
+				<string>After the soap has been applied you may remove your beard with the cut-throat razor.</string>
+			</array>
+		</array>
+		<array>
+			<string>Why is the razor blunt?</string>
+			<array>
+				<string>HINT 1</string>
+				<string>The blade of the razor will become blunt if you try to use it more than once.</string>
+			</array>
+		</array>
+	</array>
+	<array>
+		<string>Restaurant &amp; Casino</string>
+		<array>
+			<string>Restaurant</string>
+			<array>
+				<string>What should I do with Jenny?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Just relax and watch what happens.</string>
+				</array>
+			</array>
+			<array>
+				<string>How do I get into the casino?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>A safe solution may be found.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>An object from the casino or a cell may help.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>Show the casino chips or the matchbook to the head waiter.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Casino</string>
+			<array>
+				<string>How do I get past the bouncer?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Play to win. You might even break the bank.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>However, asking the teller for credit is much quicker.</string>
+				</array>
+			</array>
+			<array>
+				<string>How do I get into the private room for a second time?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Give Charpontier the document and wait.</string>
+				</array>
+			</array>
+		</array>
+	</array>
+	<array>
+		<string>The Police</string>
+		<array>
+			<string>The Police Station</string>
+			<array>
+				<string>How do I get past the desk Sergeant?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Tell him about something.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>Telling him about the bag of cocaine would be a good start.</string>
+				</array>
+			</array>
+			<array>
+				<string>How should I give evidence to the Inspector?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>What follows is one of the possible ways by which you could present evidence to the Inspector. Viewing further hints may spoil your enjoyment of the game.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>Tell him about the affidavit then give the affidavit to him.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>Tell him about the share certificate then give the share certificate to him.</string>
+				</array>
+				<array>
+					<string>HINT 4</string>
+					<string>Tell him about the cassette then give the cassette to him.</string>
+				</array>
+				<array>
+					<string>HINT 5</string>
+					<string>Tell him about the conversation you overheard at 11:24am between David and Mr. Hughes.</string>
+				</array>
+				<array>
+					<string>HINT 6</string>
+					<string>Tell him about the full ledger and the receipts then give him the full ledger, the amended ledger and the receipts.</string>
+				</array>
+				<array>
+					<string>HINT 7</string>
+					<string>Tell the inspector about charpontier.</string>
+				</array>
+				<array>
+					<string>HINT 8</string>
+					<string>Tell him about the envelope then give him both the envelope and the cheque.</string>
+				</array>
+				<array>
+					<string>HINT 9</string>
+					<string>Now tell the inspector about the document.</string>
+				</array>
+			</array>
+			<array>
+				<string>Getting out of jail</string>
+				<array>
+					<string>What should I ask Gerry?</string>
+					<array>
+						<string>HINT 1</string>
+						<string>What's he holding?</string>
+					</array>
+					<array>
+						<string>HINT 2</string>
+						<string>Ask him about the matches.</string>
+					</array>
+				</array>
+				<array>
+					<string>How do I get out of the cell?</string>
+					<array>
+						<string>HINT 1</string>
+						<string>Either ask Gerry about the door or start a fight.</string>
+					</array>
+				</array>
+				<array>
+					<string>How do I open the steel door?</string>
+					<array>
+						<string>HINT 1</string>
+						<string>Keys have been know to open doors.</string>
+					</array>
+					<array>
+						<string>HINT 2</string>
+						<string>Sergeant Russell has one.</string>
+					</array>
+					<array>
+						<string>HINT 3</string>
+						<string>He drops it on the floor when he's knocked out.</string>
+					</array>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Getting arrested</string>
+			<array>
+				<string>Why am I arrested after the jailbreak?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>The police are looking for a man with a beard.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>Maybe you should get rid of it.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>Shaving would help.</string>
+				</array>
+			</array>
+			<array>
+				<string>Why am I arrested shortly after noon?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>You must be quick off the mark and obtain three pieces of evidence before David has a chance to give them to the police.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>They are: the cassette, the share certificate and the affidavit.</string>
+				</array>
+			</array>
+		</array>
+	</array>
+	<array>
+		<string>A last resort</string>
+		<array>
+			<string>Clue objects and conversations</string>
+			<array>
+				<string>What about the casino chips?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>These are found in David's safe. They suggest the possible existence of a Casino.</string>
+				</array>
+			</array>
+			<array>
+				<string>What about the conversations?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>At 9:07am, listen at the door of Mr Hughes' office to learn the possible location of an affidavit and a safe.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>At 11:24am pick up the phone in Margaret's Office. You will hear David and Bill talking about setting you up with the Serious Fraud Office.</string>
+				</array>
+			</array>
+			<array>
+				<string>What about the letter?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>This is on the shredding machine in Theresa's Office. Its location and text suggest that David is having an affair with your wife.</string>
+				</array>
+			</array>
+			<array>
+				<string>What about the magazine?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Found in Mr. Hughes' office, this supplies general information about the Serious Fraud Office and the possibility of a gaming house somewhere in London Road.</string>
+				</array>
+			</array>
+			<array>
+				<string>What about the mirror?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Found in the bathroom. The scratches on it are a hint that someone in the building may be taking drugs.</string>
+				</array>
+			</array>
+			<array>
+				<string>What about the personal organiser?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Found in your briefcase. Read it to learn when and where you are meeting your wife for lunch.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Evidence objects</string>
+			<array>
+				<string>What about the affidavit?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Found in the folder inside the Volvo. This could be used to prove or disprove that you are guilty of insider trading.</string>
+				</array>
+			</array>
+			<array>
+				<string>What about the share certificate?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Found in the cabinet in your office. Use this to prove or disprove that you are guilty of insider trading.</string>
+				</array>
+			</array>
+			<array>
+				<string>What about the cassette?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Found on the desk in David's office. Once you have played the cassette (in the game) you will be able to use it to prove that you are being framed for insider trading.</string>
+				</array>
+			</array>
+			<array>
+				<string>What about the full ledger?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Found in the safe in David's office. See bundle of receipts.</string>
+				</array>
+			</array>
+			<array>
+				<string>What about the amended ledger?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Found in the cabinet in your office. See bundle of receipts.</string>
+				</array>
+			</array>
+			<array>
+				<string>What about the bundle of receipts?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Found in the safe in David's office. With the aid of the full and amended ledgers you will be able to use the receipts to prove that David is cooking the books and making large payments every month to Blue Dolphin Security.</string>
+				</array>
+			</array>
+			<array>
+				<string>What about the envelope?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Found on Margaret's desk after 9:16am. Along with the cheque, this can be used to prove the location of the Casino and Mr. Charpontier.</string>
+				</array>
+			</array>
+			<array>
+				<string>What about the cheque?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Contained within the envelope that appears on Margaret's desk after 9:16am. See envelope.</string>
+				</array>
+			</array>
+			<array>
+				<string>What about the document?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Found in the drawer of Mr. Hughes' desk. This can be used to prove that David has been supplying drugs.</string>
+				</array>
+			</array>
+			<array>
+				<string>What about the plastic bag?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Found inside the toilet cistern, this bag contains cocaine. Its owner will return for it shortly after 9:35am. Get rid of it before you visit the police or you will be charged with possession.</string>
+				</array>
+			</array>
+		</array>
+	</array>
+</array>
+</plist>

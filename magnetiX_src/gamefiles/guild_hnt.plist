@@ -1,0 +1,1404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>The Guild of Thieves</string>
+	<array>
+		<string>General</string>
+		<array>
+			<string>Ingredients</string>
+			<array>
+				<string>What am I making?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Well it isn't some tarts.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>You won't know what you have made.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>Until you have made it.</string>
+				</array>
+				<array>
+					<string>HINT 4</string>
+					<string>And Even then you won't be sure.</string>
+				</array>
+			</array>
+			<array>
+				<string>What are the ingredients, and where do I find them?</string>
+				<array>
+					<string>Active Ingredient</string>
+					<array>
+						<string>What is the active ingredient?</string>
+						<array>
+							<string>HINT 1</string>
+							<string>The active ingredient is symmetrical.</string>
+						</array>
+						<array>
+							<string>HINT 2</string>
+							<string>It is a Wooden Cube.</string>
+						</array>
+					</array>
+					<array>
+						<string>Where do I find the active ingredient?</string>
+						<array>
+							<string>HINT 1</string>
+							<string>The Wooden Cube is in the Junk Room.</string>
+						</array>
+					</array>
+				</array>
+				<array>
+					<string>Berries</string>
+					<array>
+						<string>HINT 1</string>
+						<string>Where dead men sleep.</string>
+					</array>
+					<array>
+						<string>HINT 2</string>
+						<string>In the Cemetery.</string>
+					</array>
+				</array>
+				<array>
+					<string>Eye</string>
+					<array>
+						<string>HINT 1</string>
+						<string>In the Sarcophagus.</string>
+					</array>
+				</array>
+				<array>
+					<string>Heart</string>
+					<array>
+						<string>HINT 1</string>
+						<string>With the Skeleton.</string>
+					</array>
+				</array>
+				<array>
+					<string>Snake Skin</string>
+					<array>
+						<string>HINT 1</string>
+						<string>In the Cage in the Zoo.</string>
+					</array>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Night Safes</string>
+			<array>
+				<string>What are they?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>The night safes are a way of keeping your treasure safe.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>And a way of providing the Bank of Kerovnia with much needed business.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>By putting things into them and closing them, you deposit your treasure.</string>
+				</array>
+				<array>
+					<string>HINT 4</string>
+					<string>Any rubbish appears outside the Bank.</string>
+				</array>
+			</array>
+			<array>
+				<string>Where are they?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>There are four in total.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>By the Moat.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>The Antechamber.</string>
+				</array>
+				<array>
+					<string>HINT 4</string>
+					<string>Outside the Bank.</string>
+				</array>
+				<array>
+					<string>HINT 5</string>
+					<string>In the Caves.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Treasures</string>
+			<array>
+				<string>What are the treasures and where do I find them? - WARNING - Unless you are really stuck, don't use this section.</string>
+				<array>
+					<string>Chalice</string>
+					<array>
+						<string>HINT 1</string>
+						<string>In the Bear's cage.</string>
+					</array>
+				</array>
+				<array>
+					<string>China Pot</string>
+					<array>
+						<string>HINT 1</string>
+						<string>Under the Bed in the Spare Bedroom.</string>
+					</array>
+				</array>
+				<array>
+					<string>Chips of Mineral</string>
+					<array>
+						<string>HINT 1</string>
+						<string>In the Rock Face.</string>
+					</array>
+					<array>
+						<string>HINT 2</string>
+						<string>Get it out with the Pick.</string>
+					</array>
+				</array>
+				<array>
+					<string>Designer Dress</string>
+					<array>
+						<string>HINT 1</string>
+						<string>In the Wardrobe in the Spare Bedroom.</string>
+					</array>
+				</array>
+				<array>
+					<string>Diamond Ring</string>
+					<array>
+						<string>HINT 1</string>
+						<string>In a ball.</string>
+					</array>
+				</array>
+				<array>
+					<string>Fossil</string>
+					<array>
+						<string>HINT 1</string>
+						<string>In the Coal.</string>
+					</array>
+					<array>
+						<string>HINT 2</string>
+						<string>Break the Coal.</string>
+					</array>
+				</array>
+				<array>
+					<string>Gem</string>
+					<array>
+						<string>HINT 1</string>
+						<string>In the Wax.</string>
+					</array>
+					<array>
+						<string>HINT 2</string>
+						<string>Melt the wax with the beam using the mirror.</string>
+					</array>
+				</array>
+				<array>
+					<string>Incense Burner</string>
+					<array>
+						<string>HINT 1</string>
+						<string>In the Temple.</string>
+					</array>
+				</array>
+				<array>
+					<string>Painting</string>
+					<array>
+						<string>HINT 1</string>
+						<string>The Oil Painting in the Gallery.</string>
+					</array>
+				</array>
+				<array>
+					<string>Plectrum</string>
+					<array>
+						<string>HINT 1</string>
+						<string>On the lute.</string>
+					</array>
+				</array>
+				<array>
+					<string>Rhinoceros</string>
+					<array>
+						<string>HINT 1</string>
+						<string>Upstairs in the Temple.</string>
+					</array>
+				</array>
+				<array>
+					<string>Ruby</string>
+					<array>
+						<string>HINT 1</string>
+						<string>In the Red Wine Bottle.</string>
+					</array>
+				</array>
+				<array>
+					<string>Sheet Music</string>
+					<array>
+						<string>HINT 1</string>
+						<string>In the Piano Stool.</string>
+					</array>
+				</array>
+				<array>
+					<string>Statuette</string>
+					<array>
+						<string>HINT 1</string>
+						<string>In the Shrine.</string>
+					</array>
+				</array>
+			</array>
+		</array>
+	</array>
+	<array>
+		<string>Locations</string>
+		<array>
+			<string>Bank</string>
+			<array>
+				<string>Why isn't the Bank open?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>The Bank won't open until it has enough business to stay that way.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>It can only get enough business by you depositing your loot.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>Keep you eye on the notice outside the door.</string>
+				</array>
+			</array>
+			<array>
+				<string>I'm in the Bank and I have lots of problems!</string>
+				<array>
+					<string>Problems in the Bank</string>
+					<array>
+						<string>How do I get to see the Manager?</string>
+						<array>
+							<string>HINT 1</string>
+							<string>Show your Card to the Teller.</string>
+						</array>
+						<array>
+							<string>HINT 2</string>
+							<string>She will then take you through to see the Manager.</string>
+						</array>
+					</array>
+					<array>
+						<string>The queue I'm in won't move...</string>
+						<array>
+							<string>HINT 1</string>
+							<string>The shortest ones never do.</string>
+						</array>
+						<array>
+							<string>HINT 2</string>
+							<string>Neither do the longest.</string>
+						</array>
+						<array>
+							<string>HINT 3</string>
+							<string>Join the other queue.</string>
+						</array>
+					</array>
+				</array>
+				<array>
+					<string>Problems in the Manager's Office</string>
+					<array>
+						<string>The Manager keeps locking me out of his office</string>
+						<array>
+							<string>HINT 1</string>
+							<string>Prevent the Manager from locking his office door.</string>
+						</array>
+						<array>
+							<string>HINT 2</string>
+							<string>Put something soft in the keyhole.</string>
+						</array>
+						<array>
+							<string>HINT 3</string>
+							<string>Use the Chewing Gum.</string>
+						</array>
+					</array>
+					<array>
+						<string>I can't seem to leave the Champagne Bottle in his office</string>
+						<array>
+							<string>HINT 1</string>
+							<string>You have to leave the office.</string>
+						</array>
+						<array>
+							<string>HINT 2</string>
+							<string>Having shaken the bottle.</string>
+						</array>
+						<array>
+							<string>HINT 3</string>
+							<string>And trained the Mynah.</string>
+						</array>
+						<array>
+							<string>HINT 4</string>
+							<string>Before the Bank Manager wants you to go.</string>
+						</array>
+					</array>
+					<array>
+						<string>How do I say the magic word without being blown up?</string>
+						<array>
+							<string>HINT 1</string>
+							<string>You don't.</string>
+						</array>
+						<array>
+							<string>HINT 2</string>
+							<string>The Mynah Bird does.</string>
+						</array>
+						<array>
+							<string>HINT 3</string>
+							<string>Train him to say 'Hooray'.</string>
+						</array>
+						<array>
+							<string>HINT 4</string>
+							<string>Then he will keep mum until the time is right. (If you're lucky.)</string>
+						</array>
+					</array>
+				</array>
+				<array>
+					<string>I've Blown up the Bank! Help!</string>
+					<array>
+						<string>How do I get back into the Manager's Office?</string>
+						<array>
+							<string>HINT 1</string>
+							<string>The ancient art of levitation.</string>
+						</array>
+						<array>
+							<string>HINT 2</string>
+							<string>Remember the painting in the Gallery?</string>
+						</array>
+						<array>
+							<string>HINT 3</string>
+							<string>The words the minstrel was singing?</string>
+						</array>
+						<array>
+							<string>HINT 4</string>
+							<string>play lute and sing Urfanore Pendra.</string>
+						</array>
+					</array>
+					<array>
+						<string>What should I take with me?</string>
+						<array>
+							<string>HINT 1</string>
+							<string>Those things that are most needed, and least used.</string>
+						</array>
+						<array>
+							<string>HINT 2</string>
+							<string>The Plastic Die.</string>
+						</array>
+						<array>
+							<string>HINT 3</string>
+							<string>The Anticube.</string>
+						</array>
+						<array>
+							<string>HINT 4</string>
+							<string>That's all your pockets will hold.</string>
+						</array>
+					</array>
+					<array>
+						<string>What should I do in the Vault?</string>
+						<array>
+							<string>HINT 1</string>
+							<string>The objective here is to progress downwards.</string>
+						</array>
+						<array>
+							<string>HINT 2</string>
+							<string>Each floor in the Vault represents a face of the Die.</string>
+						</array>
+						<array>
+							<string>HINT 3</string>
+							<string>By rolling the Die you generate the next floor down.</string>
+						</array>
+						<array>
+							<string>HINT 4</string>
+							<string>But you musn't drop through two floors in one go.</string>
+						</array>
+						<array>
+							<string>HINT 5</string>
+							<string>The holes in the floors line up with the spots on the Die.</string>
+						</array>
+						<array>
+							<string>HINT 6</string>
+							<string>And you have to get through all the floors before the fourth floor.</string>
+						</array>
+						<array>
+							<string>HINT 7</string>
+							<string>So that all the spots are removed from the Plastic Die.</string>
+						</array>
+					</array>
+					<array>
+						<string>How do I get the Ivory Cube?</string>
+						<array>
+							<string>HINT 1</string>
+							<string>The Weighing Machine is very sensitive.</string>
+						</array>
+						<array>
+							<string>HINT 2</string>
+							<string>The Anticube's weight is negative.</string>
+						</array>
+						<array>
+							<string>HINT 3</string>
+							<string>The Anticube + Ivory Cube = 0.</string>
+						</array>
+						<array>
+							<string>HINT 4</string>
+							<string>The Plastic Die is the same weight as the Ivory Cube now that it has lost its spots.</string>
+						</array>
+						<array>
+							<string>HINT 5</string>
+							<string>Put the Plastic Die and the Anticube on the Weighing Machine.</string>
+						</array>
+						<array>
+							<string>HINT 6</string>
+							<string>Then remove the Anticube and the Ivory Cube.</string>
+						</array>
+					</array>
+					<array>
+						<string>How do I get out of this strange room?</string>
+						<array>
+							<string>HINT 1</string>
+							<string>Read the Signpost.</string>
+						</array>
+						<array>
+							<string>HINT 2</string>
+							<string>Remember the Box with the cards in it?</string>
+						</array>
+						<array>
+							<string>HINT 3</string>
+							<string>One of the cards was a joker.</string>
+						</array>
+						<array>
+							<string>HINT 4</string>
+							<string>The suit that the joker wasn't is the direction to go.</string>
+						</array>
+						<array>
+							<string>HINT 5</string>
+							<string>Don't forget to take some light.</string>
+						</array>
+						<array>
+							<string>HINT 6</string>
+							<string>Like the White.</string>
+						</array>
+						<array>
+							<string>HINT 7</string>
+							<string>And your treasures.</string>
+						</array>
+						<array>
+							<string>HINT 8</string>
+							<string>I hope you left the succulents on the far side of the hot coals.</string>
+						</array>
+					</array>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Castle</string>
+			<array>
+				<string>Upstairs</string>
+				<array>
+					<string>What do I do in the Music Room?</string>
+					<array>
+						<string>HINT 1</string>
+						<string>Play us some music.</string>
+					</array>
+					<array>
+						<string>HINT 2</string>
+						<string>It is a very rare score.</string>
+					</array>
+					<array>
+						<string>HINT 3</string>
+						<string>Don't let it out of its container.</string>
+					</array>
+				</array>
+				<array>
+					<string>What do I do in the Spare Bedroom?</string>
+					<array>
+						<string>HINT 1</string>
+						<string>Look under the Bed.</string>
+					</array>
+					<array>
+						<string>HINT 2</string>
+						<string>And in the Wardrobe.</string>
+					</array>
+					<array>
+						<string>HINT 3</string>
+						<string>And on the Walls.</string>
+					</array>
+				</array>
+				<array>
+					<string>What do I do in the Main Bedroom?</string>
+					<array>
+						<string>What do I do with the Painting?</string>
+						<array>
+							<string>HINT 1</string>
+							<string>Remove it before you play with the folding bed.</string>
+						</array>
+					</array>
+					<array>
+						<string>What do I do with the Buttons?</string>
+						<array>
+							<string>HINT 1</string>
+							<string>One makes the bed go up.</string>
+						</array>
+						<array>
+							<string>HINT 2</string>
+							<string>One makes the bed go down.</string>
+						</array>
+						<array>
+							<string>HINT 3</string>
+							<string>But you need an object to press them with if you are on the bed.</string>
+						</array>
+					</array>
+					<array>
+						<string>I've gone through the hole... What now?</string>
+						<array>
+							<string>HINT 1</string>
+							<string>If you have all the ingredients mix them up.</string>
+						</array>
+						<array>
+							<string>HINT 2</string>
+							<string>But don't forget the key ingredient, the totally symmetrical object.</string>
+						</array>
+						<array>
+							<string>HINT 3</string>
+							<string>The Wooden Cube from the Junk Room.</string>
+						</array>
+						<array>
+							<string>HINT 4</string>
+							<string>Put them all in the cauldron and open the sachet to produce something very very strange.</string>
+						</array>
+						<array>
+							<string>HINT 5</string>
+							<string>An Anticube is the absolute opposite of a cube - useful eh? negative weight, negative mass....</string>
+						</array>
+					</array>
+				</array>
+				<array>
+					<string>What do I do in the Billiard Room?</string>
+					<array>
+						<string>HINT 1</string>
+						<string>Play billiards.</string>
+					</array>
+					<array>
+						<string>HINT 2</string>
+						<string>One of the balls doesn't roll very well.</string>
+					</array>
+					<array>
+						<string>HINT 3</string>
+						<string>This is because there is something of value inside it.</string>
+					</array>
+					<array>
+						<string>HINT 4</string>
+						<string>Don't forget your cue.</string>
+					</array>
+				</array>
+			</array>
+			<array>
+				<string>Downstairs</string>
+				<array>
+					<string>I have problems in the Cellar</string>
+					<array>
+						<string>How do I get rid of the Rats?</string>
+						<array>
+							<string>HINT 1</string>
+							<string>Well the Rat Poison might work.</string>
+						</array>
+						<array>
+							<string>HINT 2</string>
+							<string>But the water system is nearer.</string>
+						</array>
+						<array>
+							<string>HINT 3</string>
+							<string>If you could get the Pipe from the wall and turn on the water.</string>
+						</array>
+						<array>
+							<string>HINT 4</string>
+							<string>You could flush the Rats out of the Cellar.</string>
+						</array>
+					</array>
+					<array>
+						<string>What do I do with the Bottles?</string>
+						<array>
+							<string>HINT 1</string>
+							<string>One contains a BANG.</string>
+						</array>
+						<array>
+							<string>HINT 2</string>
+							<string>One contains a Gem.</string>
+						</array>
+						<array>
+							<string>HINT 3</string>
+							<string>Don't shake the Champagne Bottle until you wish to celebrate.</string>
+						</array>
+					</array>
+					<array>
+						<string>I keep drowning. Help!</string>
+						<array>
+							<string>HINT 1</string>
+							<string>Stop the flow of water before it's too late.</string>
+						</array>
+						<array>
+							<string>HINT 2</string>
+							<string>Turn the Stopcock.</string>
+						</array>
+					</array>
+				</array>
+				<array>
+					<string>What do I do in the Gallery?</string>
+					<array>
+						<string>HINT 1</string>
+						<string>Admire the paintings.</string>
+					</array>
+					<array>
+						<string>HINT 2</string>
+						<string>One of them is valuable as treasure.</string>
+					</array>
+					<array>
+						<string>HINT 3</string>
+						<string>One of them is valuable as information.</string>
+					</array>
+					<array>
+						<string>HINT 4</string>
+						<string>It is up to you to decide which.</string>
+					</array>
+				</array>
+				<array>
+					<string>What do I do in the Drawing Room?</string>
+					<array>
+						<string>HINT 1</string>
+						<string>Examine the Sofa.</string>
+					</array>
+					<array>
+						<string>HINT 2</string>
+						<string>And the Fire.</string>
+					</array>
+					<array>
+						<string>HINT 3</string>
+						<string>And the Coal Bucket.</string>
+					</array>
+				</array>
+				<array>
+					<string>What do I do in the Dining Room?</string>
+					<array>
+						<string>How do I get rid of the Bear?</string>
+						<array>
+							<string>HINT 1</string>
+							<string>Try putting him to sleep.</string>
+						</array>
+						<array>
+							<string>HINT 2</string>
+							<string>Don't worry, it's not permanent - the Rat Poison won't kill him.</string>
+						</array>
+						<array>
+							<string>HINT 3</string>
+							<string>Feed it to him on a Fish.</string>
+						</array>
+						<array>
+							<string>HINT 4</string>
+							<string>You can go fishing in the Moat.</string>
+						</array>
+					</array>
+					<array>
+						<string>How do I open the Cage?</string>
+						<array>
+							<string>HINT 1</string>
+							<string>The Cage is locked with a golden lock.</string>
+						</array>
+						<array>
+							<string>HINT 2</string>
+							<string>So a Golden Key should do the job.</string>
+						</array>
+					</array>
+				</array>
+				<array>
+					<string>How do I get out of the Junk Room?</string>
+					<array>
+						<string>HINT 1</string>
+						<string>The Junk has been lying around for some time.</string>
+					</array>
+					<array>
+						<string>HINT 2</string>
+						<string>It could be moved.</string>
+					</array>
+				</array>
+				<array>
+					<string>What is in the Kitchen?</string>
+					<array>
+						<string>HINT 1</string>
+						<string>Open all the Cupboards.</string>
+					</array>
+					<array>
+						<string>HINT 2</string>
+						<string>Search all the Shelves.</string>
+					</array>
+					<array>
+						<string>HINT 3</string>
+						<string>It will all come in handy - but leave the sink.</string>
+					</array>
+				</array>
+				<array>
+					<string>Should I be searching the Servant's Quarters?</string>
+					<array>
+						<string>HINT 1</string>
+						<string>You should look everywhere.</string>
+					</array>
+					<array>
+						<string>HINT 2</string>
+						<string>But especially under things around here.</string>
+					</array>
+				</array>
+			</array>
+			<array>
+				<string>The Castle Grounds</string>
+				<array>
+					<string>What do I do in the Stables?</string>
+					<array>
+						<string>HINT 1</string>
+						<string>Examine both sides on the door and you may just get lucky.</string>
+					</array>
+					<array>
+						<string>HINT 2</string>
+						<string>The flies are useful later on, try and catch them.</string>
+					</array>
+					<array>
+						<string>HINT 3</string>
+						<string>You may need a sweet accessory.</string>
+					</array>
+					<array>
+						<string>HINT 4</string>
+						<string>Like some jam.</string>
+					</array>
+				</array>
+				<array>
+					<string>I'm confused about the rat race.</string>
+					<array>
+						<string>When does the rat race start?</string>
+						<array>
+							<string>HINT 1</string>
+							<string>After you have been in the Castle a while.</string>
+						</array>
+					</array>
+					<array>
+						<string>How do I bet on the rat race?</string>
+						<array>
+							<string>HINT 1</string>
+							<string>Use the Note that you have found.</string>
+						</array>
+						<array>
+							<string>HINT 2</string>
+							<string>You did find it didn't you...?</string>
+						</array>
+						<array>
+							<string>HINT 3</string>
+							<string>It was in the Cushion.</string>
+						</array>
+						<array>
+							<string>HINT 4</string>
+							<string>Then bet on Rat with Note.</string>
+						</array>
+					</array>
+					<array>
+						<string>Which Rat will win?</string>
+						<array>
+							<string>HINT 1</string>
+							<string>The rat with the longest odds is the only one of any use.</string>
+						</array>
+						<array>
+							<string>HINT 2</string>
+							<string>The one at 10 to 1.</string>
+						</array>
+					</array>
+				</array>
+				<array>
+					<string>What do I do By the Moat?</string>
+					<array>
+						<string>Where do I find the Fishing Rod?</string>
+						<array>
+							<string>HINT 1</string>
+							<string>The Fishing Rod is made not found.</string>
+						</array>
+						<array>
+							<string>HINT 2</string>
+							<string>Find a long piece of wood, some bait, a hook and line.</string>
+						</array>
+						<array>
+							<string>HINT 3</string>
+							<string>Cue, Maggot, Needle and Thread.</string>
+						</array>
+						<array>
+							<string>HINT 4</string>
+							<string>Tie the Thread to the Cue and put the Maggot on the Needle.</string>
+						</array>
+					</array>
+					<array>
+						<string>How do I catch the Fish?</string>
+						<array>
+							<string>HINT 1</string>
+							<string>By fishing.</string>
+						</array>
+						<array>
+							<string>HINT 2</string>
+							<string>Fish for Fish in Moat.</string>
+						</array>
+					</array>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Caves</string>
+			<array>
+				<string>How do I cross the room of Hot Coals?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>There are ancient arts at play.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>The trickery of hot coal walking.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>Using a natural anaesthetic grown in hot climes.</string>
+				</array>
+				<array>
+					<string>HINT 4</string>
+					<string>Rub the Succulents on your Feet.</string>
+				</array>
+			</array>
+			<array>
+				<string>How do I open the White Podium?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>There are five rooms all arranged to look like...</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>The five on the dice.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>There are four dice.</string>
+				</array>
+				<array>
+					<string>HINT 4</string>
+					<string>Try making them all be five.</string>
+				</array>
+				<array>
+					<string>HINT 5</string>
+					<string>Then put them in their respective coloured slots.</string>
+				</array>
+				<array>
+					<string>HINT 6</string>
+					<string>And Wish... </string>
+				</array>
+			</array>
+			<array>
+				<string>There is something in the Wax, how do I get it?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>The Wax would melt if it were warmed.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>The beam of light is hot.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>Try moving the Beam into the Wax.</string>
+				</array>
+				<array>
+					<string>HINT 4</string>
+					<string>Use a mirror.</string>
+				</array>
+				<array>
+					<string>HINT 5</string>
+					<string>Try shining the beam onto the wax with the mirror.</string>
+				</array>
+				<array>
+					<string>HINT 6</string>
+					<string>But don't forget to catch the Gem.</string>
+				</array>
+			</array>
+			<array>
+				<string>How do I get past the bars?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>These bars are tough - they look like iron.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>But are they really?</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>Try breaking them.</string>
+				</array>
+			</array>
+			<array>
+				<string>How do I get out of the Sump?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>There is a way out... don't panic.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>Firstly have a good look around.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>There might be something buried in the Sand.</string>
+				</array>
+				<array>
+					<string>HINT 4</string>
+					<string>Try digging in the Sand.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Cemetery</string>
+			<array>
+				<string>What do I do in the Cemetery?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Get some rest.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>Examine the local flora.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>Those berries look useful.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Mill</string>
+			<array>
+				<string>How do I get the Lute?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Steal it?</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>Buy it?</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>But first make the money on the rat race.</string>
+				</array>
+				<array>
+					<string>HINT 4</string>
+					<string>By betting on the rat that wins.</string>
+				</array>
+				<array>
+					<string>HINT 5</string>
+					<string>Hint: you need 55 Fergs.</string>
+				</array>
+			</array>
+			<array>
+				<string>What do I do with the Chewing Gum?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Chew it.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>Don't swallow....</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>The Chewing Gum is important to stop people using keys...</string>
+				</array>
+				<array>
+					<string>HINT 4</string>
+					<string>Especially at the Bank.</string>
+				</array>
+			</array>
+			<array>
+				<string>How do I get out safely with the Lute?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Put it into a container to keep it safe.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>Try the sack, and don't forget to close it.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Outside</string>
+			<array>
+				<string>How do I get out of the Boat?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Already you need help, what chance do you have?</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>OK - try pulling the Rope to get the boat nearer the Jetty.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>Or jumping to the Jetty.</string>
+				</array>
+			</array>
+			<array>
+				<string>How do I get into the Castle?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>The Man needs help with his Trunk.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>The Gatekeeper is happy to help...if he can hear you.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>Shout to him to lower the Drawbridge.</string>
+				</array>
+			</array>
+			<array>
+				<string>How do I get into the Mill?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>The Vanes are spinning very fast, and only the Miller can stop them.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>Try attracting his attention.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>Try to shout to him to stop the Mill.</string>
+				</array>
+				<array>
+					<string>HINT 4</string>
+					<string>Shout to miller 'stop the mill'.</string>
+				</array>
+			</array>
+			<array>
+				<string>How do I get the Honey?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>First - Locate the Thermonuclear Device.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>Second - Wind it up to full steam.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>Third - Let it wind you up.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Shop</string>
+			<array>
+				<string>How do I get into the Shop?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Break the Window...</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>...carefully.</string>
+				</array>
+			</array>
+			<array>
+				<string>How do I get behind the Counter?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Vault over the counter....</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>Levitate over the counter...</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>Lift the Flap.</string>
+				</array>
+			</array>
+			<array>
+				<string>How do I rob the Till?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Really! Call yourself a thief?</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>Press the Button on the Till.</string>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Temple</string>
+			<array>
+				<string>What do I do in the Organ Room?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>A little music to cheer you up?</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>The notes are important</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>Especially the keys.</string>
+				</array>
+			</array>
+			<array>
+				<string>What do I do with the Statue?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>The Statue conceals a Hole.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>But the Hole is very deep.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>So when you get the statue, don't hang on too long.</string>
+				</array>
+			</array>
+			<array>
+				<string>Help! I'm falling down a well</string>
+				<array>
+					<string>How do I stop falling?</string>
+					<array>
+						<string>HINT 1</string>
+						<string>By dropping that very heavy object.</string>
+					</array>
+					<array>
+						<string>HINT 2</string>
+						<string>Drop the Statue.</string>
+					</array>
+				</array>
+				<array>
+					<string>How do I get back to civilisation?</string>
+					<array>
+						<string>HINT 1</string>
+						<string>Make sure that you follow any bit of light you find.</string>
+					</array>
+					<array>
+						<string>HINT 2</string>
+						<string>Even if it means going down more than you would want.</string>
+					</array>
+				</array>
+			</array>
+			<array>
+				<string>Help! I'm confused with the coloured squares</string>
+				<array>
+					<string>How do I cross the room with the Coloured Squares?</string>
+					<array>
+						<string>HINT 1</string>
+						<string>Each colour is a colour of the rainbow.</string>
+					</array>
+					<array>
+						<string>HINT 2</string>
+						<string>You have to get from over here to over there.</string>
+					</array>
+					<array>
+						<string>HINT 3</string>
+						<string>Above the entrance is the word 'WOBNIAR'.</string>
+					</array>
+					<array>
+						<string>HINT 4</string>
+						<string>Which spells 'rainbow' backwards.</string>
+					</array>
+					<array>
+						<string>HINT 5</string>
+						<string>So try traversing the squares in the reverse order of the colours of the rainbow.</string>
+					</array>
+				</array>
+				<array>
+					<string>How do I get back?</string>
+					<array>
+						<string>HINT 1</string>
+						<string>The same way you came.</string>
+					</array>
+					<array>
+						<string>HINT 2</string>
+						<string>But not backwards - still backwards.</string>
+					</array>
+					<array>
+						<string>HINT 3</string>
+						<string>Use the colours of the Rainbow, backwards.</string>
+					</array>
+				</array>
+				<array>
+					<string>What do I do with the Sarcophagus?</string>
+					<array>
+						<string>HINT 1</string>
+						<string>Open it to see.</string>
+					</array>
+					<array>
+						<string>HINT 2</string>
+						<string>You'll need the right key.</string>
+					</array>
+					<array>
+						<string>HINT 3</string>
+						<string>This can be found on a Skeleton.</string>
+					</array>
+					<array>
+						<string>HINT 4</string>
+						<string>For it is a Skeleton Key.</string>
+					</array>
+					<array>
+						<string>HINT 5</string>
+						<string>Or a dead man's finger.</string>
+					</array>
+				</array>
+				<array>
+					<string>What do I do in the Black Library?</string>
+					<array>
+						<string>HINT 1</string>
+						<string>Read everything that you can.</string>
+					</array>
+					<array>
+						<string>HINT 2</string>
+						<string>Have I missed anything?</string>
+					</array>
+					<array>
+						<string>HINT 3</string>
+						<string>Make sure you get all the treasures that are around.</string>
+					</array>
+				</array>
+			</array>
+		</array>
+		<array>
+			<string>Zoo</string>
+			<array>
+				<string>How do I get into the Zoo?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>The Toll Gate needs a Coin.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>There's a Coin to be found in the Shop.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>Put the Coin in the Slot and all will work.</string>
+				</array>
+			</array>
+			<array>
+				<string>How do I get the Succulents?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>The Spider can be lured with some Flies.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>The Flies fly in the Stable.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>But could be caught with some Jam.</string>
+				</array>
+			</array>
+			<array>
+				<string>Help! I'm being strangled</string>
+				<array>
+					<string>HINT 1</string>
+					<string>The Ice Snake hates warm climates.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>Where is the spider?</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>The spider is where it is hot, in the hot house.</string>
+				</array>
+				<array>
+					<string>HINT 4</string>
+					<string>type 'go to hot house'.</string>
+				</array>
+			</array>
+			<array>
+				<string>How do I get into the Office?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>Try using a key.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>The key in C, the key in A.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>The Organ had plenty of keys.</string>
+				</array>
+			</array>
+			<array>
+				<string>What do I do with the Macaw?</string>
+				<array>
+					<string>HINT 1</string>
+					<string>The Macaw is hungry.</string>
+				</array>
+				<array>
+					<string>HINT 2</string>
+					<string>If you feed the Macaw he will tell you something.</string>
+				</array>
+				<array>
+					<string>HINT 3</string>
+					<string>The Macaw likes Coconuts.</string>
+				</array>
+				<array>
+					<string>HINT 4</string>
+					<string>Don't forget to break it for him.</string>
+				</array>
+				<array>
+					<string>HINT 5</string>
+					<string>Use the Spade!</string>
+				</array>
+			</array>
+			<array>
+				<string>What about the Mynah Bird?</string>
+				<array>
+					<string>How do I catch the Mynah Bird?</string>
+					<array>
+						<string>HINT 1</string>
+						<string>You need a small Bird Cage.</string>
+					</array>
+					<array>
+						<string>HINT 2</string>
+						<string>You may have been given one at the end of the rat race.</string>
+					</array>
+					<array>
+						<string>HINT 3</string>
+						<string>Make sure that the door is shut, else the bird flies.</string>
+					</array>
+					<array>
+						<string>HINT 4</string>
+						<string>Catch the Bird then put it in the Cage.</string>
+					</array>
+					<array>
+						<string>HINT 5</string>
+						<string>Don't forget to shut the Small Cage!</string>
+					</array>
+				</array>
+				<array>
+					<string>How do I teach things to the Mynah Bird?</string>
+					<array>
+						<string>HINT 1</string>
+						<string>The Mynah Bird repeats what you say often.</string>
+					</array>
+					<array>
+						<string>HINT 2</string>
+						<string>But it has to be very often.</string>
+					</array>
+					<array>
+						<string>HINT 3</string>
+						<string>Type Mynah,'Hello' three times.</string>
+					</array>
+				</array>
+			</array>
+		</array>
+	</array>
+</array>
+</plist>
